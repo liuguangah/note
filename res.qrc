@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>ICO/BehaviorsXamlSDK.ico</file>
+        <file>ICO/DatabaseProject.ico</file>
+        <file>ICO/folder.ico</file>
+        <file>ICO/formview.ico</file>
+        <file>ICO/hot.ico</file>
+        <file>ICO/idlfile.ico</file>
+        <file>ICO/jumplist_pausealltask.ico</file>
+        <file>ICO/jumplist_startalltask.ico</file>
+        <file>ICO/MYSL.ICO</file>
+        <file>ICO/OOFL.ICO</file>
+        <file>ICO/print_pref.ico</file>
+        <file>ICO/privacy_disclosures.ico</file>
+        <file>ICO/ringtones.ico</file>
+        <file>ICO/semitransparent.ico</file>
+        <file>ICO/Syncing.ico</file>
+        <file>ICO/TIMER01.ICO</file>
+        <file>ICO/win7_thumbview_down.ico</file>
+        <file>ICO/win7_thumbview_pause.ico</file>
+        <file>ICO/Windows.ico</file>
+        <file>ICO/www.gushiwen.org.ico</file>
+        <file>ICO/XmlToSchema.ico</file>
+        <file>ICO/001.jpg</file>
+        <file>ICO/002.jpg</file>
+    </qresource>
+</RCC>
